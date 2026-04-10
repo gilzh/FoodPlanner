@@ -1,0 +1,27 @@
+# Credentials & cookies
+*_cookies.json
+
+# Large data files
+saved_recipes.json
+saved_recipes_detailed.json
+saved_recipes_page.html
+ingredients_cache.json
+meal_plan.json
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Claude session
+.claude/
+
+# Test & debug files
+test.py
+test_login.py
+web_app.py
+scrape:recipes.py
